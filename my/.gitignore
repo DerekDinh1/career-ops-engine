@@ -1,0 +1,4 @@
+# All career data under my/ is personal — never commit.
+*
+!.gitignore
+!README.md
