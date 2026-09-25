@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "⭐ My career",
+      "path": "my"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.DS_Store": true
+    }
+  }
+}
